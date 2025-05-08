@@ -2,18 +2,18 @@ _BTS CIEL Informatique et Réseaux_
 
 # Mini-projet de fin d'année :
 
-| Mini-projet    | Étudiant 1        | Étudiant 2                | Étudiant 3        |
-| -------------- | ----------------- | ------------------------- | ----------------- |
-| Mini projet 1  | AZUR Allan        | DELPORTE Clément          |                   |
-| Mini projet 2  | KRUPA Donovan     | BENDER Gabriel            | D'HORDAIN Louis   |
-| Mini projet 3  | PONSIN Fabien     | POTIN Léo                 | BOITTE Lucie      |
-| Mini projet 4  | BODINA Léo        | BUDAN DE RUSSE Christophe | DOUCE Justine     |
-| Mini projet 5  | BRUN Mathis       | CATRAIN-NOWICKI Tristan   | BOTTIER Matthéo   |
-| Mini projet 6  | DUVAL Travis      | GUNDUZ Muhammed Faruk     |                   |
-| Mini projet 7  | AUBRY Mathéo      | CARLIER Noe               | DEMEILLER Enzo    |
-| Mini projet 8  | MOUNY-PONSIN Enzo | PETIT Yaël                | GILLIER Alexis    |
-| Mini projet 9  | SENEZ Corentin    | QUELIN Rémy               | LE BRETON Loic    |
-| Mini projet 10 | GRIGORAS Daniel   | PISTAT Romain             | MOREL-DUTRE Lucas |
+| Mini-projet    | Étudiant 1 | Étudiant 2 | Étudiant 3 |
+| -------------- | ---------- | ---------- | ---------- |
+| Mini projet 1  |            |            |            |
+| Mini projet 2  |            |            |            |
+| Mini projet 3  |            |            |            |
+| Mini projet 4  |            |            |            |
+| Mini projet 5  |            |            |            |
+| Mini projet 6  |            |            |            |
+| Mini projet 7  |            |            |            |
+| Mini projet 8  |            |            |            |
+| Mini projet 9  |            |            |            |
+| Mini projet 10 |            |            |            |
 
 ## ***Objectifs***
 

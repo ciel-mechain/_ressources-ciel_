@@ -1,0 +1,48 @@
+#################################
+# Fichiers temporaires et système
+#################################
+**/*.log
+**/*.tmp
+**/*.bak
+**/.DS_Store
+**/Thumbs.db
+
+#################################
+# Fichiers d'éditeurs (Vim, VS Code…)
+#################################
+**/*.swp
+**/*.swo
+**/.vscode/
+
+#################################
+# Python
+#################################
+
+# Bytecode compilé
+**/__pycache__/
+**/*.py[cod]
+
+# Environnements virtuels
+**/venv/
+**/env/
+
+# Checkpoints Jupyter
+**/*.ipynb_checkpoints
+
+#################################
+# C
+#################################
+
+# Fichiers objets et dépendances
+**/*.o
+**/*.d
+
+# Exécutables
+# **/*.exe
+**/*.out
+**/*.elf
+
+# Répertoires de compilation
+**/build/
+**/bin/
+

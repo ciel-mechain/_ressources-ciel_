@@ -57,7 +57,7 @@ Les compétences développées durant cette activité seront les suivantes :
   - Diffusion d'informations sur le Web
   - Analyse des échanges d'informations
 
-- L'ensemble des programmes et divers documents produits seront déposés sur **GitHub**, dans un dépôt nommé `ciel-mechain/projet-XX` organisé par le *chef de projet*.
+- L'ensemble des programmes et divers documents produits seront déposés sur **GitHub**, dans un dépôt nommé `ciel-mechain/projet-XX` (XX étant ne numéro du projet) organisé par le *chef de projet*.
 
 ## ***Présentation orale (avec diaporama)***
 
@@ -73,7 +73,7 @@ Les compétences développées durant cette activité seront les suivantes :
 
 - Une attention particulière sera portée au respect des points demandés dans le travail à réaliser.
 
-# ■ Mini projet n° 1 :
+# ■ Mini projet n° 01 :
 
 ## Contrôle de flux de visiteurs dans un musée
 
@@ -87,7 +87,7 @@ Le système devra être capable d'effectuer un comptage du flux de personnes ent
 - Carte Micro:bit
 - Capteurs de personnes : simulés par les deux boutons de la Micro:bit
 
-# ■ Mini projet n° 2 :
+# ■ Mini projet n° 02 :
 
 ## Contrôle des paramètres d'une serre
 
@@ -103,7 +103,7 @@ Ces données atmosphériques et de ventilation devront être archivées dans une
 - Capteur DHT22
 - Ventilateur
 
-# ■ Mini projet n° 3 :
+# ■ Mini projet n° 03 :
 
 ## Gestion d'un éclairage automatique
 
@@ -119,7 +119,7 @@ par un éclairage à LEDS. Il faudra archiver la mesure de luminosité et l'éne
 - Capteurs de luminosité : LEDS de la Micro:bit
 - Actionneurs : 4 LEDS de puissance interfacée par MOS-FET
 
-# ■ Mini projet n° 4 :
+# ■ Mini projet n° 04 :
 
 ## Contrôle de la vitesse d'un coureur
 
@@ -135,7 +135,7 @@ Les données seront archivées dans une BDD en vue de tracer les courbes de vite
 - Capteur : module GPS + transmetteur radio
 - Actionneur : indicateur à aiguille
 
-# ■ Mini projet n° 5 :
+# ■ Mini projet n° 05 :
 
 ## Contrôle d'accès par QR Code
 
@@ -150,7 +150,7 @@ Le système devra être capable de lire un QR Code et d'autoriser l'accès à un
 - Capteur : Caméra
 - Actionneur : Carte Relais
 
-# ■ Mini projet n° 6 :
+# ■ Mini projet n° 06 :
 
 ## Contrôle d'un générateur de sons
 
@@ -164,7 +164,7 @@ Le système devra être capable de générer un son en fonction de la position d
 - Arduino
 - Capteur : Capteurs ultrason SR04
 
-# ■ Mini projet n° 7 :
+# ■ Mini projet n° 07 :
 
 ## Contrôle d'un affichage de Température et luminosité sur un afficheur Led
 
@@ -179,7 +179,7 @@ Le système devra être capable de capter la température et la luminosité ambi
 - Capteur : Capteurs CTN et photorésistance
 - Actionneur : Afficheur Led
 
-# ■ Mini projet n° 8 :
+# ■ Mini projet n° 08 :
 
 ## Suivi de consommation électrique d'une installation autonome
 
@@ -194,7 +194,7 @@ Le système devra être capable de mesurer la tension et le courant prélevé su
 - Capteur : résistance
 - Actionneur : Afficheur RGB Led WS2812B
 
-# ■ Mini projet n° 9 :
+# ■ Mini projet n° 09 :
 
 ## Contrôle d'un affichage de poids à l'aide d'un capteur de force
 

@@ -57,6 +57,8 @@ Les compétences développées durant cette activité seront les suivantes :
   - Diffusion d'informations sur le Web
   - Analyse des échanges d'informations
 
+- L'ensemble des programes et dvivers documents seront déposés sur **GitHub**, dans un dépôt nommé `ciel-mechain/projet-XX`
+
 ## ***Présentation orale (avec diaporama)***
 
 - Présentation de l’objectif global

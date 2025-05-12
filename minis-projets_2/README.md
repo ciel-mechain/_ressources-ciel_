@@ -41,7 +41,7 @@ Les compétences développées durant cette activité seront les suivantes :
 
 ## ***Organisation***
 
-- Le travail sera réalisé par 2 ou 3 étudiants. L’un d’entre eux assurera la tâche de chef de projet en plus de la partie qu’il aura à réaliser. La répartition des tâches est à sa charge.
+- Le travail sera réalisé par 2 ou 3 étudiants. L’un d’entre eux assurera la tâche de *chef de projet* en plus de la partie qu’il aura à réaliser. La répartition des tâches est à sa charge.
 
 - Le développement se fera sur 4 semaines.
 
@@ -57,7 +57,7 @@ Les compétences développées durant cette activité seront les suivantes :
   - Diffusion d'informations sur le Web
   - Analyse des échanges d'informations
 
-- L'ensemble des programes et dvivers documents seront déposés sur **GitHub**, dans un dépôt nommé `ciel-mechain/projet-XX`
+- L'ensemble des programmes et divers documents produits seront déposés sur **GitHub**, dans un dépôt nommé `ciel-mechain/projet-XX` organisé par le *chef de projet*.
 
 ## ***Présentation orale (avec diaporama)***
 

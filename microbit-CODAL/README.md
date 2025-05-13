@@ -2,20 +2,16 @@
 
 ## Installation
 
-Lisez la documentation puis téléchargez le fichier *zip* sur <https://github.com/lancaster-university/microbit-v2-samples>.
+1. Exécutez tout d'abord la commande suivante :
+
+```bash
+sudo apt install gcc git cmake gcc-arm-none-eabi binutils-arm-none-eabi
+```
+2. Lisez la documentation puis téléchargez le fichier *zip* sur <https://github.com/lancaster-university/microbit-v2-samples>.
 
 > Lien direct : [master.zip](https://github.com/lancaster-university/microbit-v2-samples/archive/refs/heads/master.zip)
 
 Décompressez cette archive.
-
-Exécutez les commandes suivantes :
-
-```bash
-sudo apt install gcc
-sudo apt install git
-sudo apt install cmake
-sudo apt install gcc-arm-none-eabi binutils-arm-none-eabi
-```
 
 ## Utilisation
 

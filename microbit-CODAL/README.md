@@ -284,7 +284,7 @@ Chronogrammes obtenus :
 
 ### Multitâche
 
-Programme qui utilise **trois tâches parallèles (fibres)** pour surveiller la température et les boutons A et B. Il affiche les informations sur le **port série USB**.
+Programme qui utilise **trois tâches parallèles (fibres)** pour surveiller la température ainsi que les boutons A et B. Il affiche les informations sur le **port série USB**.
 
 ```c
 #include "MicroBit.h"
